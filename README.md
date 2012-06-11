@@ -16,5 +16,6 @@ Creating the PDF
 ================
 
 You must have hal9000:/wmd because that is where the image files for the
-plots reside. Once you have that, run::
+plots reside. Once you have that, run:
+
     pdflatex *tex
